@@ -58,7 +58,7 @@
 		// dynamic-fps was enabled on dipper-p-oss
 		qcom,mdss-dsi-pan-enable-dynamic-fps;
 		qcom,mdss-dsi-pan-fps-update = "dfps_immediate_porch_mode_vfp";
-		qcom,dsi-supported-dfps-list = <60 55>;
+		qcom,dsi-supported-dfps-list = <60 45 30>;
 		// dynamic-fps was enabled on dipper-p-oss
 		qcom,dispccbb-enabled;
 		qcom,dispblnotify-enabled;
